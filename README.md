@@ -1,15 +1,21 @@
 # MachineLearning-Task-EduBridge
 **Scenario Based Questions - ML EduBridge**
 
-1. In the above-mentioned file, I had done the (K-Nearest Neighbor)KNN Classifier for the data provided. 
+--What I had done in this task.
 
-2. Founded the values with an accuracy of 90%.
+1. In the above-mentioned file, I had done the **(K-Nearest Neighbor)KNN Classifier** for the data provided. 
 
-3.  
+2. Founded the values with an accuracy of **90%**.
 
+3. The output had shown in the CSV file formate with the header as required. Also uploaded the output file as **output.csv**
 
+4. The Code for this task will be in **ML_Task_EduBridge_KNN.ipynb** anyone can access it. 
 
-**Question - Description:**
+--
+
+--
+
+**Question - Description :-**
 
 You need to classify fetal health to avoid the abnormalities for the child and mother while giving birth. You will be provided with a CSV consisting of 22 columns out of which the first 21 columns are the factors based on which you need to classify the fetal health which is the last column . You need to classify the health status into the following:
 
